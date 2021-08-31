@@ -1,2 +1,3 @@
 # algorithmic-uncertainty
-Algorithmic uncertainty of automated decision processes in criminal justice.
+
+Algorithmic uncertainty in criminal justice algorithms using simulation studies of the Pennsylvania Additive Classification Tool (PACT).
